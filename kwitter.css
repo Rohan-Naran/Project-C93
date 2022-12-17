@@ -1,0 +1,18 @@
+.header{
+    @import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+    font-family: 'Nabla', cursive;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #006494, #0a73aa, #2591d9, #33a0f1, #2591d9, #1a97e0, #0a73aa, #006494);
+}
+.login_div{
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 20px;
+    border-width:5px;
+    border-style:solid;
+    border-color:red;
+    margin-left: 30%;
+    margin-right: 55%;
+}
